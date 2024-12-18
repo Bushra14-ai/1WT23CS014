@@ -6,4 +6,7 @@ Branch: CS
 Section: "B"
 Yr of Adm: 2023
 Cllge name: GITW
+SSLC: Lilly Rose English School
+PUC: BET Composite PU College
+UG: GIT
 
