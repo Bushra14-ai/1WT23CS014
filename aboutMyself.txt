@@ -1,0 +1,9 @@
+Title: Miss
+Full Name:Bushra Fatima
+USN:1WT23CS014
+Semester:3rd
+Branch: CS
+Section: "B"
+Yr of Adm: 2023
+Cllge name: GITW
+
